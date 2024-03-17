@@ -11,6 +11,7 @@
 5. [05_Blurry_Loading](https://deni007a.github.io/50-Projects-In-50-Days---HTML-CSS-JavaScript/05_Blurry_Loading/)
 6. [06_Scroll_Animation](https://deni007a.github.io/50-Projects-In-50-Days---HTML-CSS-JavaScript/06_Scroll_Animation)
 7. [07_Split_Landing_Page](https://deni007a.github.io/50-Projects-In-50-Days---HTML-CSS-JavaScript/07_Split_Landing_Page)
+8. [08_Form_Wave](https://deni007a.github.io/50-Projects-In-50-Days---HTML-CSS-JavaScript/08_Form_Wave)
 
 
 ***
